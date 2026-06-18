@@ -1,0 +1,8 @@
+--- NUEVO PEDIDO ---
+--- RESUMEN MESA 1 ---
+Prod.           Cant. Total   
+------------------------------------------
+Sopa de Maní    x3    45.00    Bs
+Refresco        x3    15.00    Bs
+
+--------------------
